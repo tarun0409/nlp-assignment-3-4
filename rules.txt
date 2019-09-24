@@ -1,0 +1,25 @@
+~ DS
+` DS
+! S
+@ S
+# S
+$ S
+% S
+& S
+* DS
+() S
+- DS
+_ DS
++ DS
+= DS
+{} S
+[] S
+: S
+; S
+''"" S
+? S
+<> S
+, S
+. S only for last
+/ DS
+| DS
